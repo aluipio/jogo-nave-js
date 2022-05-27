@@ -1,10 +1,10 @@
-# Desafio 02 - Bootcamp: Jogo de Nave
+# Desafio Bootcamp: Jogo de Nave
 
 Projeto de jogo de Nave em 29 de abril de 2022, pela [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade -> Jogo de Nave
 
-1. Criar uma interface em HTML + CSS e JS.
+1. Criar uma interface em HTML + CSS + JS.
 2. Montar uma estrutura básica.
 
 ## Para executar:
